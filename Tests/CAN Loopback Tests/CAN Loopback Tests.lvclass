@@ -80,6 +80,15 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 		</Item>
+		<Item Name="Validate Loopback Channels.vi" Type="VI" URL="../Validate Loopback Channels.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)$!!!!%!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!5!#A!!*E"!!!(`````!!5:972E;82J&lt;WZB&lt;#"D;'&amp;O&lt;G6M)(:B&lt;(6F=Q!_1(!!(A!!("J$15YA4'^P='*B9WMA6'6T&gt;(-O&lt;(:D&lt;'&amp;T=Q!!&amp;E."4C"-&lt;W^Q9G&amp;D;S"5:8.U=S"P&gt;81!!#"!5!!$!!!!!1!#%W6S=G^S)'FO)#BO&lt;S"F=H*P=CE!#!!Q`````Q!I1%!!!@````]!#2JM&lt;W^Q9G&amp;D;S"D;'&amp;O&lt;G6M=S"U&lt;S"X=GFU:1!!*E"!!!(`````!!E:&lt;'^P='*B9WMA9WBB&lt;GZF&lt;(-A&gt;']A=G6B:!!I1%!!!@````]!#2NB:'2J&gt;'FP&lt;G&amp;M)'.I97ZO:7RT)(2P)(*F971!&amp;E"1!!-!#A!,!!Q)9WBB&lt;GZF&lt;(-!!$R!=!!?!!!='E."4C"-&lt;W^Q9G&amp;D;S"5:8.U=SZM&gt;G.M98.T!!!61U&amp;/)%RP&lt;X"C97.L)&amp;2F=X2T)'FO!'%!]!!-!!-!"!!'!!=!"!!%!!1!"!!)!!1!$1!/!Q!!?!!!$1A!!!!!!!!*!!!!$1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!"!!!!!+!!!.!!!!$!!!!!!!!!!!!!!"!!]!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">32</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1082130962</Property>
+		</Item>
 	</Item>
 	<Item Name="Assets" Type="Folder">
 		<Item Name="CAN Cyclic Loopback with Information Channels.nivssdf" Type="Document" URL="../Assets/CAN Cyclic Loopback with Information Channels.nivssdf"/>
@@ -119,7 +128,7 @@
 		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
 		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
+		<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 	</Item>
 	<Item Name="test CAN Cyclic Loopback with Information Channels.vi" Type="VI" URL="../test CAN Cyclic Loopback with Information Channels.vi">
 		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%Q!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$2!=!!?!!!='E."4C"-&lt;W^Q9G&amp;D;S"5:8.U=SZM&gt;G.M98.T!!!-6'6T&gt;%.B=W5A&lt;X6U!!!A1&amp;!!!Q!!!!%!!B.F=H*P=C"J&lt;C!I&lt;G]A:8*S&lt;X)J!$*!=!!?!!!='E."4C"-&lt;W^Q9G&amp;D;S"5:8.U=SZM&gt;G.M98.T!!!,6'6T&gt;%.B=W5A;7Y!91$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"!!%!!=$!!"Y!!!.#!!!!!!!!!!!!!!.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!!!!!!!!!!!")!!!U!!!!-!!!!!!!!!!!!!!%!#!!!!!!</Property>
